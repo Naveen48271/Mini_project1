@@ -1,5 +1,0 @@
-Enhancing Drug Side Effect Prediction with Explainable AI for Medical Health Applications
-This project aims to improve the prediction of potential drug side effects using machine learning and explainable AI techniques. It is built to assist healthcare professionals and patients by offering interpretable predictions based on patient medical data.
-
-🚀 Project Overview
-In the healthcare sector, predicting adverse drug reactions (ADRs) is vital for safe treatment. This project uses AI models to predict side effects of prescribed drugs and integrates explainable AI (XAI) techniques (like SHAP) to ensure transparency and interpretability of the predictions.
